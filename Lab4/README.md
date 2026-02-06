@@ -3,4 +3,5 @@ The objective of this lab was to implement Convolutional Neural Networks (CNNs) 
  - 3 Activation Functions
 - 3 Weight Initialization Techniques
 - 3 Optimizers
+
 Additionally, we compared our best CNN model for both datasets with a pretrained ResNet-18 model.
