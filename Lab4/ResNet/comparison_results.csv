@@ -1,0 +1,5 @@
+dataset,model,accuracy,loss
+CIFAR-10,ResNet-18,79.67,1.033243430519104
+CIFAR-10,leaky_relu_xavier_rmsprop,77.47,0.6820746510271813
+Dogs vs Cats,ResNet-18,92.48,0.33385442822650074
+Dogs vs Cats,leaky_relu_kaiming_adam,86.46,0.3158373527134521
